@@ -2,7 +2,7 @@ import requests
 import re
 
 # stuid
-stuid = ""
+stuid = "1909660110"
 
 def getid():
 
