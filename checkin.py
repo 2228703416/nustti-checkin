@@ -5,15 +5,15 @@ import time
 from datetime import datetime
 
 # parameters start
-stuid = "1909660110"
-id = "35948"
-province = "江苏省"
-city = "连云港市"
-distict = "赣榆区"
-street = "海头镇"
-t5_1_id = "320000"
-t5_2_id = "320700"
-t5_3_id = "320707"
+stuid = "190"
+id = "359"
+province = "省"
+city = "市"
+distict = "区"
+street = "镇"
+t5_1_id = "0000"
+t5_2_id = "00"
+t5_3_id = "0"
 # parameters end
 
 # generate timestamp
